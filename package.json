@@ -1,0 +1,20 @@
+{
+    "scripts": {
+        "typecheck": "tsc",
+        "dev": "tsc-watch --onSuccess \"tsx ./main.ts\"",
+        "start": "tsx ./main.ts"
+    },
+    "dependencies": {
+        "@grammyjs/commands": "^1.0.8",
+        "@mysten/sui": "^1.33.0",
+        "dotenv": "^16.5.0",
+        "grammy": "^1.10.0",
+        "tsx": "^3.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.8",
+        "tsc-watch": "^6.0.0",
+        "typescript": "^5.0.0"
+    },
+    "packageManager": "pnpm@9.14.2+sha512.6e2baf77d06b9362294152c851c4f278ede37ab1eba3a55fda317a4a17b209f4dbb973fb250a77abc463a341fcb1f17f17cfa24091c4eb319cda0d9b84278387"
+}
