@@ -225,6 +225,7 @@ const botLog = async (ctx: any, message?: any, error?: any) => {
     console.error("Message too long...");
   }
 };
+
 bot.use(myCommands);
 // bot.use(kpiCommands);
 

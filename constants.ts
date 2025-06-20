@@ -178,5 +178,24 @@ export const CONFIG = {
         buy: 'https://app.suirewards.me/swap/SUI/SEP',
       }
     },
+    // { // suitrump config
+    //   coinType: '0xe82075a4f218209bd56c4ad0ed35dd4de7b73c803340d97750ace7b832fd3f3b::SEP::SEP',
+    //   poolId: '0x41e8c828bc735d1332f793169ed7ad22ff504378bf7944ccf9fb5acb12a391e6',
+    //   name: 'Sui Eater Protocol',
+    //   symbol: 'SEP',
+    //   decimals: 9,
+    //   supply: 1_000_000_000_000_000_000,
+    //   emoji: '😈🕳',
+    //   video: 'CgACAgEAAyEFAASW4Pf5AAIN3WhQ-ptY_YxufUFxNu-RZbnUWQ7-AAKaBAACuByIRirR6p4Sk9_SNgQ',
+    //   chat: SEP_SUPERCHAT,
+    //   socials: {
+    //     telegram: 'https://t.me/+8xppPdpiTOhkMGQx',
+    //     x: 'https://x.com/suieaterrewards?s=21',
+    //     discord: 'https://discord.gg/suirewardsme',
+    //     website: 'https://suirewards.me',
+    //     dapp: 'https://app.suirewards.me',
+    //     buy: 'https://app.suirewards.me/swap/SUI/SEP',
+    //   }
+    // },
   ],
 };
